@@ -5,3 +5,12 @@ require
     - npm install npx -g
     4. git
 
+react app 생성
+    npx create-react-app movi_app_2020
+
+git
+    $ git init
+    $ git remote add origin https://github.com/snowynam/movie_app_2020.git
+    $ git add .
+    $ git commit -m "Creating your first react App"
+    $ git push origin master
